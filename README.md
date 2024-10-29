@@ -82,6 +82,7 @@
 ###
 
 <h2 align="left">🔧 Técnologias que eu trabalho:</h2>
+
 ###
 
 <div align="left">

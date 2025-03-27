@@ -58,7 +58,7 @@
 
 <h2 align="left">📬 Contact Me</h2>
 <p align="left">
-  <a href="[https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/ailton-junior-185713223/?original_referer=)" target="_blank">
+  <a href="https://www.linkedin.com/in/ailton-junior-185713223/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tkingdoxpxg@gmail.com">
@@ -132,7 +132,7 @@
 
 <h2 align="left">📬 Contato</h2>
 <p align="left">
-  <a href="[https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/ailton-junior-185713223/?original_referer=)" target="_blank">
+  <a href="https://www.linkedin.com/in/ailton-junior-185713223/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tkingdoxpxg@gmail.com">
